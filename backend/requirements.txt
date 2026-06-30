@@ -1,0 +1,19 @@
+# KrishiAI Backend — Python Dependencies
+# Install with: pip install -r requirements.txt --break-system-packages
+# (omit --break-system-packages if you're using a virtualenv, which is recommended)
+
+django>=4.2,<5.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.0.0
+django-ratelimit>=4.1.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Production WSGI server (replaces `python manage.py runserver`, which is
+# dev-only and explicitly not safe/performant for real traffic)
+gunicorn>=21.2.0
+
+# Optional, recommended for production: load config from a .env file locally
+python-dotenv>=1.0.0
+requests>=2.32.0

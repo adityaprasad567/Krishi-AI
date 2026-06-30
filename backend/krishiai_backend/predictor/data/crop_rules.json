@@ -1,0 +1,186 @@
+{
+  "rice": {
+    "expected_yield": "4-6 t/ha",
+    "water_requirement": "High (1200-2000 mm)",
+    "growing_duration": "90-150 days",
+    "profitability": 7,
+    "best_sowing_month": "June-July",
+    "fertilizer": "Urea 120 kg/ha + DAP 60 kg/ha as basal"
+  },
+  "wheat": {
+    "expected_yield": "3-5 t/ha",
+    "water_requirement": "Moderate (450-650 mm)",
+    "growing_duration": "100-130 days",
+    "profitability": 7,
+    "best_sowing_month": "November-December",
+    "fertilizer": "NPK 120:60:40 kg/ha"
+  },
+  "maize": {
+    "expected_yield": "3-7 t/ha",
+    "water_requirement": "Moderate (500-800 mm)",
+    "growing_duration": "80-110 days",
+    "profitability": 7,
+    "best_sowing_month": "June-July",
+    "fertilizer": "Urea 150 kg/ha + SSP 375 kg/ha"
+  },
+  "chickpea": {
+    "expected_yield": "1.5-2.5 t/ha",
+    "water_requirement": "Low (350-500 mm)",
+    "growing_duration": "90-130 days",
+    "profitability": 8,
+    "best_sowing_month": "October-November",
+    "fertilizer": "DAP 100 kg/ha as basal dose"
+  },
+  "kidneybeans": {
+    "expected_yield": "1-2 t/ha",
+    "water_requirement": "Moderate (500-700 mm)",
+    "growing_duration": "70-100 days",
+    "profitability": 7,
+    "best_sowing_month": "February-March",
+    "fertilizer": "NPK 20:40:20 kg/ha"
+  },
+  "pigeonpeas": {
+    "expected_yield": "1-2 t/ha",
+    "water_requirement": "Low-Moderate (650-1000 mm)",
+    "growing_duration": "120-180 days",
+    "profitability": 7,
+    "best_sowing_month": "June-July",
+    "fertilizer": "SSP 250 kg/ha + Urea 45 kg/ha"
+  },
+  "mothbeans": {
+    "expected_yield": "0.5-1.5 t/ha",
+    "water_requirement": "Low (300-500 mm)",
+    "growing_duration": "60-75 days",
+    "profitability": 6,
+    "best_sowing_month": "June-July",
+    "fertilizer": "DAP 60 kg/ha"
+  },
+  "mungbean": {
+    "expected_yield": "0.8-1.5 t/ha",
+    "water_requirement": "Low-Moderate (400-600 mm)",
+    "growing_duration": "60-75 days",
+    "profitability": 7,
+    "best_sowing_month": "March-April / June-July",
+    "fertilizer": "DAP 100 kg/ha"
+  },
+  "blackgram": {
+    "expected_yield": "0.8-1.2 t/ha",
+    "water_requirement": "Moderate (500-700 mm)",
+    "growing_duration": "60-90 days",
+    "profitability": 7,
+    "best_sowing_month": "June-July",
+    "fertilizer": "DAP 80 kg/ha + MOP 40 kg/ha"
+  },
+  "lentil": {
+    "expected_yield": "1-1.8 t/ha",
+    "water_requirement": "Low (350-500 mm)",
+    "growing_duration": "90-110 days",
+    "profitability": 7,
+    "best_sowing_month": "October-November",
+    "fertilizer": "DAP 100 kg/ha"
+  },
+  "pomegranate": {
+    "expected_yield": "15-25 t/ha",
+    "water_requirement": "Moderate (500-800 mm)",
+    "growing_duration": "Perennial (fruit in 2-3 years)",
+    "profitability": 9,
+    "best_sowing_month": "February-March",
+    "fertilizer": "NPK 625:250:200 g/plant/year"
+  },
+  "banana": {
+    "expected_yield": "20-40 t/ha",
+    "water_requirement": "High (1200-2200 mm)",
+    "growing_duration": "9-12 months",
+    "profitability": 8,
+    "best_sowing_month": "June-July / January-February",
+    "fertilizer": "NPK 200:30:300 g/plant"
+  },
+  "mango": {
+    "expected_yield": "8-20 t/ha",
+    "water_requirement": "Moderate (750-1000 mm)",
+    "growing_duration": "Perennial (fruit in 3-5 years)",
+    "profitability": 8,
+    "best_sowing_month": "July-August",
+    "fertilizer": "NPK 100:50:100 g/plant at planting"
+  },
+  "grapes": {
+    "expected_yield": "20-40 t/ha",
+    "water_requirement": "Moderate (700-1200 mm)",
+    "growing_duration": "Perennial (fruit in 2-3 years)",
+    "profitability": 9,
+    "best_sowing_month": "January-February",
+    "fertilizer": "NPK 60:40:60 kg/ha"
+  },
+  "watermelon": {
+    "expected_yield": "25-40 t/ha",
+    "water_requirement": "Moderate (400-600 mm)",
+    "growing_duration": "65-90 days",
+    "profitability": 8,
+    "best_sowing_month": "February-March",
+    "fertilizer": "NPK 100:50:50 kg/ha"
+  },
+  "muskmelon": {
+    "expected_yield": "15-25 t/ha",
+    "water_requirement": "Moderate (400-600 mm)",
+    "growing_duration": "70-90 days",
+    "profitability": 7,
+    "best_sowing_month": "February-March",
+    "fertilizer": "NPK 100:50:50 kg/ha"
+  },
+  "apple": {
+    "expected_yield": "15-30 t/ha",
+    "water_requirement": "Moderate (1000-1200 mm)",
+    "growing_duration": "Perennial",
+    "profitability": 9,
+    "best_sowing_month": "November-December",
+    "fertilizer": "NPK 700:350:700 g/plant/year"
+  },
+  "orange": {
+    "expected_yield": "15-25 t/ha",
+    "water_requirement": "Moderate (750-1200 mm)",
+    "growing_duration": "Perennial",
+    "profitability": 8,
+    "best_sowing_month": "June-September",
+    "fertilizer": "NPK 600:300:600 g/plant/year"
+  },
+  "papaya": {
+    "expected_yield": "30-50 t/ha",
+    "water_requirement": "Moderate (1000-1500 mm)",
+    "growing_duration": "9-12 months",
+    "profitability": 8,
+    "best_sowing_month": "June-July",
+    "fertilizer": "NPK 250:250:500 g/plant"
+  },
+  "coconut": {
+    "expected_yield": "60-100 nuts/tree/year",
+    "water_requirement": "High (1500-2500 mm)",
+    "growing_duration": "Perennial (fruit in 5-7 years)",
+    "profitability": 8,
+    "best_sowing_month": "June-September",
+    "fertilizer": "NPK 500:320:1200 g/tree/year"
+  },
+  "cotton": {
+    "expected_yield": "2-3 t/ha",
+    "water_requirement": "Moderate (700-1300 mm)",
+    "growing_duration": "150-180 days",
+    "profitability": 8,
+    "best_sowing_month": "April-May",
+    "fertilizer": "NPK 120:60:60 kg/ha"
+  },
+  "jute": {
+    "expected_yield": "2-3 t/ha",
+    "water_requirement": "High (1000-1500 mm)",
+    "growing_duration": "100-120 days",
+    "profitability": 6,
+    "best_sowing_month": "March-April",
+    "fertilizer": "Urea 80 kg/ha + SSP 100 kg/ha"
+  },
+  "coffee": {
+    "expected_yield": "0.5-2 t/ha",
+    "water_requirement": "High (1600-2500 mm)",
+    "growing_duration": "Perennial",
+    "profitability": 8,
+    "best_sowing_month": "June-July",
+    "fertilizer": "NPK 40:20:60 g/plant/year"
+  }
+}

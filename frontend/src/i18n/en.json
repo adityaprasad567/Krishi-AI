@@ -1,0 +1,83 @@
+{
+  "brand": "KrishiAI",
+  "tagline": "AI for Smarter Farming",
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "dashboard": "Dashboard",
+    "pricing": "Pricing",
+    "about": "About",
+    "faq": "FAQ",
+    "login": "Login",
+    "signup": "Create Account"
+  },
+  "hero": {
+    "headline": "AI for Smarter Farming",
+    "sub": "Predict crops, monitor weather, analyze soil, detect diseases, and improve yield with AI built for Indian farms.",
+    "cta_primary": "Get Started",
+    "cta_secondary": "Explore Features"
+  },
+  "features": {
+    "title": "Everything your farm needs, in one place",
+    "subtitle": "Powerful AI tools designed for small and large farms alike.",
+    "crop": { "title": "Crop Recommendation", "desc": "Best crops for your soil, season and climate." },
+    "weather": { "title": "Weather Intelligence", "desc": "Hyperlocal forecasts and rain alerts." },
+    "soil": { "title": "Soil Analysis", "desc": "NPK, pH, moisture and health score." },
+    "satellite": { "title": "Satellite Monitoring", "desc": "NDVI, vegetation index and field stress." },
+    "disease": { "title": "Disease Detection", "desc": "AI scans leaves for pests and disease." },
+    "market": { "title": "Market Price Prediction", "desc": "Track prices and plan profitable sales." }
+  },
+  "location": {
+    "title": "Smart Location",
+    "subtitle": "We tailor every insight to your exact field.",
+    "auto": "Use my location",
+    "search": "Search village or district",
+    "map": "Pick on map",
+    "detected": "Auto detected",
+    "refresh": "Refresh",
+    "permission_denied": "Permission denied. Enable location access in your browser.",
+    "configure": "Configure VITE_API_BASE_URL to enable live data."
+  },
+  "dashboard": {
+    "greeting_morning": "Good morning",
+    "greeting_afternoon": "Good afternoon",
+    "greeting_evening": "Good evening",
+    "overview": "Overview",
+    "weather": "Weather",
+    "crops": "Crop Recommendation",
+    "soil": "Soil Health",
+    "satellite": "Satellite Monitoring",
+    "disease": "Disease Detection",
+    "market": "Market Prices",
+    "assistant": "AI Assistant",
+    "settings": "Settings",
+    "profile": "Profile"
+  },
+  "auth": {
+    "login_title": "Welcome back",
+    "login_sub": "Log in to your KrishiAI dashboard.",
+    "register_title": "Create your account",
+    "register_sub": "Start farming smarter in minutes.",
+    "email": "Email",
+    "password": "Password",
+    "confirm": "Confirm password",
+    "name": "Full name",
+    "phone": "Phone number",
+    "remember": "Remember me",
+    "forgot": "Forgot password?",
+    "sign_in": "Sign in",
+    "continue": "Continue",
+    "google": "Continue with Google",
+    "have_account": "Already have an account?",
+    "no_account": "Don't have an account?"
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "download": "Download",
+    "learn_more": "Learn more"
+  }
+}
