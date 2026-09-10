@@ -1,4 +1,4 @@
-# KrishiAI — Full-Stack Smart Farming Assistant
+# KrishiAI — Smart Agriculture Decision Support Platform
 
 AI-powered farming assistant for Indian farmers. Built with React + Django.
 
