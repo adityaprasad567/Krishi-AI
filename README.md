@@ -26,7 +26,7 @@ cp .env.example .env
 python manage.py runserver 8000
 ```
 
-The API will be available at `http://localhost:8000/api/`
+This API will be available at `http://localhost:8000/api/`
 
 ### Frontend
 
